@@ -32,3 +32,12 @@ This is one of the HW assignment at USC, there are 2 quesitons.
 
 ## Machine Learning for Data Science
 ![data_science](ds.jpg)
+
+## Decision Tree
+![data_science](Tree.jpg)
+
+## Principal Component Regression 
+![data_science](PCR.jpg)
+
+## XGBoost 
+![data_science](XGBoost.jpg)
