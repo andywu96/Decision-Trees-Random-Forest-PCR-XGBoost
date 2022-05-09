@@ -14,17 +14,21 @@
 ## Decision-Trees-for-Classification-Problem
 
 
-This is one of the HW assignment at USC, using KNN with different metrics to find the best test and train error.
+This is one of the HW assignment at USC, there are 2 quesitons.
 
-1. Pre-Processing and Exploratory data analysis
-2. k-nearest neighbors with Euclidean metric
-3. Find a Learning Curve
-4. KNN with different distance metrics
-   - Manhattan Distance
-   - Chebyshev Distance   
-   - Mahalanobis Distance
-5. Weighted distances
 
+### First, using Decision Trees as Interpretable Models to identify Accute Inamations data. 
+
+1. Decision Trees as Interpretable Models
+2. Cost-Complexity Pruning
+
+### Second, LASSO and Boosting for Regression for Communities and Crime data. 
+
+3. LASSO and Boosting for Regression
+4. Random Forest Model
+5. Ridge Regression Model
+6. Principal Component Regression model
+7. XGBoost Model
 
 ## Machine Learning for Data Science
 ![data_science](ds.jpg)
